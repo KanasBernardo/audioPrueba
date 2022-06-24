@@ -1,4 +1,4 @@
-let sound = new Audio('../src/audio/song1.mp3');
+let sound = new Audio('../audio/song1.mp3');
 
 playBtn.addEventListener("click", ()=>{
     sound.play();
